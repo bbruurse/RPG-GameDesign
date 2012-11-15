@@ -45,7 +45,18 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Shooter.js" />
+     <Compile Include="Assets\attack.js" />
      <Compile Include="Assets\bullet.js" />
+     <Compile Include="Assets\scripts\Chase.js" />
+     <Compile Include="Assets\scripts\Patrol.js" />
+     <Compile Include="Assets\scripts\SwordSwing.js" />
+     <Compile Include="Assets\scripts\Swordcollect.js" />
+     <Compile Include="Assets\scripts\bow spin.js" />
+     <Compile Include="Assets\scripts\bowcollect.js" />
+     <Compile Include="Assets\scripts\firstaidkitcollect.js" />
+     <Compile Include="Assets\scripts\firstaidkitspin.js" />
+     <Compile Include="Assets\scripts\swordspin.js" />
+     <Compile Include="Assets\terrain sound.js" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />

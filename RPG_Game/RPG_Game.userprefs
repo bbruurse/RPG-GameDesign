@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shooter.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Patrol.js">
     <Files>
-      <File FileName="Assets\Shooter.js" Line="16" Column="29" />
-      <File FileName="Assets\bullet.js" Line="9" Column="1" />
+      <File FileName="Assets\scripts\Patrol.js" Line="19" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
