@@ -55,6 +55,9 @@
      <Compile Include="Assets\scripts\firstaidkitcollect.js" />
      <Compile Include="Assets\scripts\firstaidkitspin.js" />
      <Compile Include="Assets\scripts\swordspin.js" />
+     <None Include="Assets\SWS\Textures\car\Shaders\LightsEmmissive.shader" />
+     <None Include="Assets\SWS\Scripts\Holoville\HOTween_License.txt" />
+     <None Include="Assets\SWS\Textures\car\Shaders\GlassReflect.shader" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
@@ -62,6 +65,9 @@
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="HOTween">
+ <HintPath>Assets\SWS\Scripts\Holoville\HOTween.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
